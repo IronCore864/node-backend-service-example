@@ -13,6 +13,11 @@
 
 `npm run build`
 
+##### Test 
+
+`npm test`
+
 ##### Run
 
 `npm start`
+
