@@ -2,6 +2,8 @@
 
 ### DEV dependencies
 
+`npm install`
+
 - config
 - express
 
