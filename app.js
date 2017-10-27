@@ -13,3 +13,5 @@ app.listen(port, () => {
   let startedMessage = `Service ${serviceName} started on port ${port}.`
   console.log(startedMessage);
 })
+
+module.exports = app
