@@ -1,0 +1,6 @@
+{
+  "service": {
+    "name": "node-backend-service-example",
+    "port": "3000"
+  }
+}
