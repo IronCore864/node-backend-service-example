@@ -1,8 +1,9 @@
 {
   "apps" : [
     {
-      "name": "example",
-      "script": "./app.js",
+      "name": "helloworld",
+      "script": "npm",
+      "args": "start",
       "instance_var": "INSTANCE_ID",
       "log_type": "json",
       "env": {
