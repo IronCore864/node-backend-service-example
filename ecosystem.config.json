@@ -1,0 +1,13 @@
+{
+  "apps" : [
+    {
+      "name": "example",
+      "script": "./app.js",
+      "instance_var": "INSTANCE_ID",
+      "log_type": "json",
+      "env": {
+        "NODE_ENV": "development"
+      }
+    }
+  ]
+}
