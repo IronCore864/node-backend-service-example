@@ -2,5 +2,12 @@
   "service": {
     "name": "node-backend-service-example",
     "port": "3000"
+  },
+  "db": {
+  	"host": "fkt-autocam-postgres.c8eel1ayybza.eu-central-1.rds.amazonaws.com",
+  	"port": 5432,
+  	"user": "test",
+  	"password": "test",
+  	"dbname": "quote"
   }
 }
